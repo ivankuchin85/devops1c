@@ -1,6 +1,4 @@
 ﻿Modified:CommonModule.Расчет
 Modified:CommonModule.Расчет.Module
-Modified:Document.Операция
-Modified:Document.Операция.ObjectModule
-Modified:Document.РасходнаяНакладная
-Modified:Document.РасходнаяНакладная.ObjectModule
+Modified:Document.НачислениеЗарплаты
+Modified:Document.НачислениеЗарплаты.ObjectModule
